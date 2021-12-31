@@ -1,0 +1,13 @@
+<?php
+
+namespace src\Library;
+
+class test{
+  public function index(){
+    echo "没错！";
+    echo "我";
+    echo "是";
+    echo "傻";
+    echo "逼";
+  }
+}
